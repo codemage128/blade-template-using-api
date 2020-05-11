@@ -131,7 +131,7 @@
         "summernote": "~0.8.9",
         "sweetalert2": "^8.0.5",
         "switchery": "https://github.com/abpetkov/switchery.git",
-        "tinymce": "^4.9.2",
+        "tinymce": "^4.9.10",
         "toastr": "^2.1.2",
         "trumbowyg": "~2.0.0-beta.7",
         "twitter-bootstrap-wizard": "https://github.com/VinceG/twitter-bootstrap-wizard.git",
