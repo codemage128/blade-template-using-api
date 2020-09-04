@@ -114,7 +114,7 @@
         "modernizr": "^3.6.0",
         "morris.js": "^0.5.0",
         "nestable-list": "https://github.com/dbushell/Nestable.git",
-        "node-sass": "^4.5.3",
+        "node-sass": "^4.13.1",
         "noty": "~2.3.8",
         "owlCarousel": "https://github.com/JeroenKnoops/owlfonk-owlcarousel.git",
         "pace": "^0.0.4",
